@@ -91,7 +91,7 @@
 "dateaddon":"06-24-2023"},
 
 {"imageaddon":"https://media.discordapp.net/attachments/1181211890781798454/1237365902555742278/pack_icon.png?ex=663cb3cc&is=663b624c&hm=55046cbaf6f8996996daaf5226201b76c8cd28ab2cc44bb81f8f47f189bba55e&",
-"nameaddon":"The Cartoon Huggy Wuggy Morphs",
+"nameaddon":"Cartoon Huggy Wuggy Morphs",
 "descaddon":"Introducing an addon that is already an available shape named Cartoon Huggy Wuggy monster in the world!",
 "linkaddon":"https://www.mediafire.com/download/ujj5hckg85qa4tb",
 "idaddon":"cartoonhgmorphid",
@@ -109,4 +109,19 @@
 "descaddon":"Introducing the addon adding the monster Huggy Wuggy and feeding Kissy Missy diamonds will stop Huggy Wuggy from hitting you but this addon was rejected by the previous owner who created it before it!",
 "linkaddon":"https://www.mediafire.com/file/bt5927fpfrduhzm/Kissy+Missy+V2.mcaddon/file",
 "idaddon":"kissmissv2id",
-"dateaddon":"05-01-2022"}]
+"dateaddon":"05-01-2022"},
+
+{"imageaddon":"",
+"nameaddon":"Joy Ville By Stray Official",
+"descaddon":"Introducing an addon related to Joyville",
+"linkaddon":"https://www.mediafire.com/file/zh1vdbqlwlpe6ef/Joyville_Addon.mcaddon/file?dkey=ha6vt02oby3&r=915",
+"idaddon":"joyvilleid",
+"dateaddon":"09-22-2023"},
+
+{"imageaddon":"",
+"nameaddon":"Fnaf Security Breach Ruin",
+"descaddon":"Introducing an addon related to Fnaf Security Breach Ruin!",
+"linkaddon":"https://www.mediafire.com/file/8cxckgtuyaso9ie/fnaf_sb_ruin_addon_by_strayofficial.mcaddon/file?dkey=3y6bwi6wri3&r=154",
+"idaddon":"fnafsbruinid",
+"dateaddon":"09-06-2023"}
+]
